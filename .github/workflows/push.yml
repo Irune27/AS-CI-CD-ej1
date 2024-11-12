@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  ej1:
+  ej31:
     runs-on: ubuntu-latest
 
     steps:
